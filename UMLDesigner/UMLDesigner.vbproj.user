@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Program.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Base\ActionButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\MainScene.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Property\BoolPropertyView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Property\EnumPropertyView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Property\IntPropertyView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Property\PPropertyView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Property\TextPropertyView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Base\SceneEntry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\SceneLabel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Shape\CompositControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\Shape\ShapeContainer.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\ToolView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Base\View.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Behavior\StateDiagram\UMLCompositStateView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Behavior\StateDiagram\UMLIFStateView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Behavior\StateDiagram\UMLNormalStateView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Behavior\StateDiagram\UMLStateDiagramView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Behavior\StateDiagram\UMLStateView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\Param\UMLParamListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\Param\UMLParamListProView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\Param\UMLParamView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\UMLAttrView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\UMLClassModelView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\UMLClassView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Structure\ClassModel\UMLOpView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

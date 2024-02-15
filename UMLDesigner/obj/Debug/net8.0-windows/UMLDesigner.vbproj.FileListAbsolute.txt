@@ -1,0 +1,60 @@
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.exe
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.deps.json
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.runtimeconfig.json
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.dll
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.pdb
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.vbproj.GenerateResource.cache
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.AssemblyInfoInputs.cache
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.AssemblyInfo.vb
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.vbproj.CoreCompileInputs.cache
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.dll
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\refint\UMLDesigner.dll
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.pdb
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.genruntimeconfig.cache
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\ref\UMLDesigner.dll
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLClassView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLAttrView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLOpView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLClassModelView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLParamListForm.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLParamView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLCompositStateView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLNormalStateView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLStateDiagramView.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.ShapeContainer.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.Program.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.Resources.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.SceneEntry.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.MainScene.resources
+C:\Users\a1b2c\source\repos\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.SceneLabel.resources
+D:\My Projects\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.exe
+D:\My Projects\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.deps.json
+D:\My Projects\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.runtimeconfig.json
+D:\My Projects\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.dll
+D:\My Projects\UMLDesigner\UMLDesigner\bin\Debug\net8.0-windows\UMLDesigner.pdb
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.Resources.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.Program.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.MainScene.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.SceneEntry.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.SceneLabel.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.ShapeContainer.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLCompositStateView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLNormalStateView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLStateDiagramView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLParamListForm.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLParamView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLAttrView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLClassModelView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLClassView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.UMLOpView.resources
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.vbproj.GenerateResource.cache
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.AssemblyInfoInputs.cache
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.AssemblyInfo.vb
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.vbproj.CoreCompileInputs.cache
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.dll
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\refint\UMLDesigner.dll
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.pdb
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\UMLDesigner.genruntimeconfig.cache
+D:\My Projects\UMLDesigner\UMLDesigner\obj\Debug\net8.0-windows\ref\UMLDesigner.dll
